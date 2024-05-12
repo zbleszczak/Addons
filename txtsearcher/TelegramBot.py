@@ -3,7 +3,7 @@ import os
 import telebot
 
 # Create a TeleBot object with your bot token
-bot = telebot.TeleBot(token='6004981495:AAEod7VNLoWTjmU-2vg-vX-iQfi7so5GZf8')
+bot = telebot.TeleBot(token='')
 group_id = 'Moon_Log'
 
 download_dir = os.path.join(os.path.expanduser('~'), 'downloads')
